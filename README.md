@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KapTheGuy
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning OSDEV
 - 💞️ I’m looking to collaborate on any project that requires software engineering
 - 📫 How to reach me: On discord, dripkap_19416
 - 😄 Pronouns: He/Him
